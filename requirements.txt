@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+entsoe-py
+openmeteo-requests
+holidays
+python-dotenv
+jupyter
+lightgbm
+tensorflow
+shap
+streamlit
