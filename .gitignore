@@ -156,6 +156,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.cache/
 
 # Spyder project settings
 .spyderproject
@@ -221,3 +222,11 @@ __marimo__/
 "data\processed\*" 
 data/raw/*
 data/processed/*
+
+# Data files - never commit these
+data/raw/*
+data/processed/*
+data/features/*
+*.csv
+*.parquet
+*.h5
