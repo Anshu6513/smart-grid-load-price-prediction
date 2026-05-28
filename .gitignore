@@ -219,3 +219,5 @@ __marimo__/
 ".env" 
 "data\raw\*" 
 "data\processed\*" 
+data/raw/*
+data/processed/*
