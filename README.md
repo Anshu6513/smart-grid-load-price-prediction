@@ -15,7 +15,7 @@ smart-grid-ai/
 ├── notebooks/          # EDA and experimentation
 ├── pipeline/           # Data fetching, cleaning, feature engineering
 ├── models/             # Trained model artifacts
-├── dashboard/          # Web app for demo
+├── dashboard/          # Web app for Demo
 └── docs/               # Reports and documentation
 
 ## Team
